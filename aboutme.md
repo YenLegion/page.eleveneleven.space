@@ -12,6 +12,6 @@ subtitle: An exercise in how to sell yourself short
 - I like to write music and fix/break/fix my machines. 
 - I am working on a degree in computer networking, though may just go the certification route.
 - I am an amateur coder and networking enthusiast. 
-- I am a homelabber, shout out to "www.reddit.com/r/homelab"
+- I am a homelabber, shout out to www.reddit.com/r/homelab
 
 
