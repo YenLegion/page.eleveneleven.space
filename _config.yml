@@ -16,6 +16,7 @@ author: Peter Chapman
 navbar-links:
   About Me: "aboutme"
   Music: "music"
+  Cats: "cats"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
