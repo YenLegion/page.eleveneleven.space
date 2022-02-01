@@ -17,9 +17,9 @@ navbar-links:
   About Me: "aboutme"
   Music: "music"
   Cats: "cats"
-  Resources:
-  - Music: "music"
-  - Cats: "cats"
+  #Resources:
+  #- Music: "music"
+  #- Cats: "cats"
 #  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
