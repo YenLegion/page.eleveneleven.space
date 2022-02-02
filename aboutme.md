@@ -13,5 +13,7 @@ subtitle: An exercise in how to sell yourself short
 - I am working on a degree in computer networking, though may just go the certification route.
 - I am an amateur coder and networking enthusiast. 
 - I am a homelabber, shout out to www.reddit.com/r/homelab
+- I have 2 cats. Molly and Dahlia. Molly is Dahia’s mother.
 
+![Cats]({{ site.url }}/assets/img/20210424_184454.jpg)
 
