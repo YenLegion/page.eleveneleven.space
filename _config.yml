@@ -19,6 +19,7 @@ navbar-links:
   # Cats: "cats"
   Resources:
    - My Soundcloud: "https://soundcloud.com/peter-chapman"
+   - My Bandlab: "https://www.bandlab.com/petermacchapman"
    - No ads on Spotify (Windows): "https://github.com/mrpond/BlockTheSpot"
   #- Cats: "cats"
 #  Author's home: "https://deanattali.com"
@@ -48,7 +49,6 @@ social-network-links:
   github: YenLegion
   twitter: "https://github.com/YenLegion"
   youtube: "https://www.youtube.com/channel/UC6hunLRygC7wb5oGo43eKJg"
-  soundcloud: "https://soundcloud.com/peter-chapman"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
