@@ -20,3 +20,7 @@ This playlist is quite old, but I picked out some tracks from all of the tracks 
 
 [I also use Bandlab.](https://www.bandlab.com/petermacchapman)
 I ran out of space on Soundcloud so have been using Bandlab more and more, instead of deleting tracks on Soundcloud. I haven't used it, but there is an online DAW and I think you can edit with people and record throught the browser. I am always up for collaboration. 
+
+If you are interesting in hearing more, better quality and browsable in the form of google drive link contact me directly. 
+
+``Thanks for listening!``
