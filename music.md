@@ -24,3 +24,5 @@ I ran out of space on Soundcloud so have been using Bandlab more and more, inste
 If you are interesting in hearing more, better quality and browsable in the form of google drive link contact me directly. 
 
 ``Thanks for listening!``
+
+[Secret Link to Lab](https://lab.eleveneleven.space)
