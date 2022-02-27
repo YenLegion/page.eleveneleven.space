@@ -44,12 +44,12 @@ title-img: "/assets/img/avatar-icon.png"
 # Select the sociaSl network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "petermacSchapman@gmail.com"
+  email: "petermacchapman@gmail.com"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: "https://www.facebook.com/SuperAwesomeSexy"
+  facebook: "SuperAwesomeSexy"
   github: YenLegion
-  twitter: "https://github.com/YenLegion"
-  youtube: "https://www.youtube.com/channel/UC6hunLRygC7wb5oGo43eKJg"
+  twitter: "YenLegion"
+  youtube: "UC6hunLRygC7wb5oGo43eKJg"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
