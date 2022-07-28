@@ -8,7 +8,7 @@ subtitle: An exercise in how to sell yourself short
 
 - I live in Colorado, United States.
 
-- I am 32 years of age.
+- I am 33 years of age.
 
 - I am in a relationship with a beautiful woman named Cassandra.
 
