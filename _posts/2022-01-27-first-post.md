@@ -3,6 +3,7 @@ layout: post
 title: First Post
 subtitle: first post
 comments: true
+hidden: true 
 ---
 
 This is the first post. Now I have to think of things to say.
