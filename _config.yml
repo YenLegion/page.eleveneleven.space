@@ -9,18 +9,18 @@
 title: eleveneleven
 
 # Your name to show in the footer
-author: Peter Chapman
+# author: Peter Chapman
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  # About Me: "aboutme"
   Music: "music"
   # Cats: "cats"
   Resources:
    - My Soundcloud: "https://soundcloud.com/peter-chapman"
    - My Bandlab: "https://www.bandlab.com/petermacchapman"
-   - My Tilde.club: "https://tilde.club/~yenlegion/"
+  #  - My Tilde.club: "https://tilde.club/~yenlegion/"
    - No ads on Spotify (Windows): "https://github.com/mrpond/BlockTheSpot"
   #- Cats: "cats"
 #  Author's home: "https://deanattali.com"
@@ -43,13 +43,13 @@ title-img: "/assets/img/avatar-icon.png"
 
 # Select the sociaSl network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
-social-network-links:
-  email: "petermacchapman@gmail.com"
-  rss: false  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: "SuperAwesomeSexy"
-  github: YenLegion
-  twitter: "YenLegion"
-  youtube: "UC6hunLRygC7wb5oGo43eKJg"
+# social-network-links:
+  # email: "petermacchapman@gmail.com"
+  # rss: false  # remove this line if you don't want to show an RSS link at the bottom
+  # facebook: "SuperAwesomeSexy"
+  # github: YenLegion
+  # twitter: "YenLegion"
+  # youtube: "UC6hunLRygC7wb5oGo43eKJg"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -71,16 +71,16 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: false
-  vk: false
+# share-links-active:
+#   twitter: true
+#   facebook: true
+#   linkedin: false
+#   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
