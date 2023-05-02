@@ -1,0 +1,32 @@
+version: '3.9'
+services:
+    jekyll-serve:
+        image: jekyll/jekyll:pages
+        volumes:
+            - '.:/srv/jekyll:cached'
+        ports:
+            - 4000:4000
+        command: 'jekyll serve --watch --force_polling --config _config.dev.yml' 
+        command: >
+      jekyll serve \
+      --watch \  # Enable auto-regeneration of the site when files are modified.
+      --force_polling \  # Force watch to use polling
+      --drafts \  # Process and render draft posts
+      --unpublished \  # Render posts that were marked as unpublished
+      --future \  # Publish posts or collection documents with a future date
+      --verbose \ # Print verbose output
+      --trace \  # Show the full backtrace when an error occurs
+      --strict_front_matter \  # Cause a build to fail if there is a YAML syntax error in a page's front matter
+      -d /tmp/_site  # Change the directory where Jekyll will write files
+    ports:
+      - 4001:4000  # Serves the site on port 4001. Change this if you have other apps running on that port
+    # A simple healthcheck to tell Docker that the site is up and running
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:4000"]
+      interval: 1m30s
+      timeout: 10s
+      retries: 3
+    volumes:
+      - .:/srv/jekyll  # Mount the project into the pwd of the Docker container
+
+      #https://bucketofcode.com/how-to-run-github-pages-locally-with-docker
