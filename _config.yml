@@ -54,10 +54,10 @@ title-img: "/assets/img/avatar-icon.png"
 # Select the sociaSl network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 # social-network-links:
-  # email: "petermacchapman@gmail.com"
+    email: "admin@eleveneleven.space"
   # rss: false  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: "SuperAwesomeSexy"
-  # github: YenLegion
+   github: YenLegion
   # twitter: "YenLegion"
   # youtube: "UC6hunLRygC7wb5oGo43eKJg"
 #  medium: yourname
@@ -182,7 +182,7 @@ footer-hover-col: "#FFFFFF"
 #  site_id: "9"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
-
+remove-ads: true
 ####################
 # --- Comments --- #
 ####################
@@ -286,7 +286,11 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-
+  - tools-versions
+  - run.sh
+  - docker-compose/
+  - notes
+  
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
